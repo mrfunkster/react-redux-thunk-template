@@ -1,0 +1,26 @@
+.main h1, main p {
+    text-align: center;
+}
+.main h1 {
+    color: #09d3ac;
+} 
+.technology {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.technology-item {
+    width: 128px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.technology-item a {
+    width: 100%;
+}
+.technology-item img {
+    width: 100%;
+    object-fit: cover;
+}

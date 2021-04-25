@@ -1,20 +1,23 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is React App Template created with standard [create-react-app](https://create-react-app.dev/docs/getting-started/), but with some custom improvements.
 
-## Available Scripts
+## About template
 
-In the project directory, you can run:
+The project contain basic React file structure with dependencies to create React/Redux/Thunk-based Application with bootstrap stylesheet.
 
-### `npm start`
+## Dependents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- react-router
+- redux
+- react-redux
+- redux-thunk
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Create your own project
 
-### `npm test`
+To create your own project using this Template simply clone this repository from git:
+
+### `git clone `
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
